@@ -37,11 +37,11 @@ The agent gradually learned collision avoidance after ~5000 training steps. :con
 
 ## Reward Curve
 
-![Reward Curve](results/reward_curve.png)
+![Reward Curve](results/rewards_highway_env.png)
 
 ## Simulation Video
 
-results/highway_simulation.mp4
+results/highway_eval (1).mp4
 
 ## Project Structure
 
